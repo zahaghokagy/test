@@ -1,5 +1,5 @@
 {
-    "do_update":true,
+    "is_ad_live":true,
     "go_to_link":"www.google.com",
     "game_icon_img":"www.imgUrl.com",
     "text_to_say":"go to this new app",
