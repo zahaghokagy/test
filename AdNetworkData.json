@@ -1,18 +1,18 @@
 {
     "is_Banner_Live":true,
-    "banner_ad_img":"img url of size 1334 x 209",
-    "Banner_Ad_Go_To_URL":"Banner To Go URL click",
+    "banner_ad_img":"https://raw.githubusercontent.com/zahaghokagy/test/main/ER-01.png",
+    "Banner_Ad_Go_To_URL":"www.google.com",
     "is_Interstitial_Live":true,
     "is_Interstitial_AN_IMG":true,
-    "Interstitial_Ad_Go_To_URL":"Inter To Go URL click",
-    "Inter_ad_img_169":"img url of size 1920 x 1080",
-    "Inter_ad_img_43":"img url size 1024 × 1366",
+    "Interstitial_Ad_Go_To_URL":"www.youtube.com",
+    "Inter_ad_img_169":"https://raw.githubusercontent.com/zahaghokagy/test/main/interAd-01.png",
+    "Inter_ad_img_43":"https://raw.githubusercontent.com/zahaghokagy/test/main/interAd-01.png",
     "Inter_Skip_Seconds":5,
-    "Inter_ad_Video_169":"Video url of size 1920 x 1080",
-    "Inter_ad_Video_43":"Video url size 1024 × 1366",
+    "Inter_ad_Video_169":"https://zahag.publit.io/file/gameVid.mp4",
+    "Inter_ad_Video_43":"https://zahag.publit.io/file/gameVid.mp4",
     "is_Rewarded_Live":true,
     "Rewarded_Skip_Seconds":25,
-    "Rewarded_Ad_Go_To_URL":"Rewarded To Go URL click",
-    "rewarded_vid_169":"Video url of size 1920 x 1080",
-    "rewarded_vid_43":"Video url size 1024 × 1366"
+    "Rewarded_Ad_Go_To_URL":"www.twitter.com",
+    "rewarded_vid_169":"https://zahag.publit.io/file/gameVid.mp4",
+    "rewarded_vid_43":"https://zahag.publit.io/file/gameVid.mp4"
 }
