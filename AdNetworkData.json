@@ -3,7 +3,7 @@
     "banner_ad_img":"https://raw.githubusercontent.com/zahaghokagy/test/main/ER-01.png",
     "Banner_Ad_Go_To_URL":"www.google.com",
     "is_Interstitial_Live":true,
-    "is_Interstitial_AN_IMG":true,
+    "is_Interstitial_AN_IMG":false,
     "Interstitial_Ad_Go_To_URL":"www.youtube.com",
     "Inter_ad_img_169":"https://raw.githubusercontent.com/zahaghokagy/test/main/interAd-01.png",
     "Inter_ad_img_43":"https://raw.githubusercontent.com/zahaghokagy/test/main/interAd-01.png",
