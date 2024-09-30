@@ -1,0 +1,23 @@
+{
+    "is_Banner_Live":true,
+    "banner_ad_img":"https://raw.githubusercontent.com/zahaghokagy/test/main/ER-01.png",
+    "Banner_Ad_Go_To_URL":"www.google.com",
+    "is_Interstitial_Live":true,
+    "is_Interstitial_A_Vid":false,
+    "Inter_ad_img_1":"https://s1.1zoom.me/b3556/124/Texture_Multicolor_526935_1080x1920.jpg",
+    "Interstitial_Ad_Go_To_URL_1":"www.youtube.com",
+    "Inter_ad_img_2":"https://wallpapercave.com/wp/wp2245759.jpg",
+    "Interstitial_Ad_Go_To_URL_2":"www.twitter.com",
+    "Inter_ad_img_3":"https://i.pinimg.com/564x/6d/a3/00/6da3007ff3305f1e2bdacb9daaf19389.jpg",
+    "Interstitial_Ad_Go_To_URL_3":"www.google.com",
+    "Inter_ad_img_4":"https://wallpapers.com/images/featured-full/1080x1920-ugd930ckdcujq44s.jpg",
+    "Interstitial_Ad_Go_To_URL_4":"www.github.com",
+    "Inter_Skip_Seconds":0,
+    "Inter_ad_Video_169":"https://zahag.publit.io/file/gameVid.mp4",
+    "Inter_ad_Video_43":"https://zahag.publit.io/file/gameVid.mp4",
+    "is_Rewarded_Live":true,
+    "Rewarded_Skip_Seconds":25,
+    "Rewarded_Ad_Go_To_URL":"www.twitter.com",
+    "rewarded_vid_169":"https://zahag.publit.io/file/gameVid.mp4",
+    "rewarded_vid_43":"https://zahag.publit.io/file/gameVid.mp4"
+}
