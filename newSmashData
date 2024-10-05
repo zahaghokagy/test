@@ -1,0 +1,24 @@
+{  
+    "is_Banner_Live":true,
+    "banner_ad_img":"https://raw.githubusercontent.com/zahaghokagy/test/main/ER-01.png",
+    "Banner_Ad_Go_To_URL":"www.google.com",
+    "is_Interstitial_Live":true,
+    "Inter_ad_img_1":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img1.jpg",
+    "Interstitial_Ad_Go_To_URL_1":"www.youtube.com",
+    "Inter_ad_img_2":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img2.jpg",
+    "Interstitial_Ad_Go_To_URL_2":"www.twitter.com",
+    "Inter_ad_img_3":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img3.jpg",
+    "Interstitial_Ad_Go_To_URL_3":"www.google.com",
+    "Inter_ad_img_4":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img4.jpg",
+    "Interstitial_Ad_Go_To_URL_4":"www.github.com",
+    "Inter_Skip_Seconds":5,
+    "is_Rewarded_Live":true,
+    "Rewarded_Skip_Seconds":25,
+     "Rewarded_ad_img_1":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img1.jpg",
+    "Rewarded_Ad_Go_To_URL_1":"www.rewarded1.com",
+    "Rewarded_ad_img_2":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img2.jpg",
+    "Rewarded_Ad_Go_To_URL_2":"www.rewarded2.com",
+    "Rewarded_ad_img_3":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img3.jpg",
+    "Rewarded_Ad_Go_To_URL_3":"www.rewarded3.com"
+    
+}
