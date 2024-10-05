@@ -12,17 +12,13 @@
     "Inter_ad_img_4":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img4.jpg",
     "Interstitial_Ad_Go_To_URL_4":"www.github.com",
     "Inter_Skip_Seconds":5,
-    "Inter_ad_Video_1":"https://zahag.publit.io/file/gameVid.mp4",
-    "Interstitial_Vid_Ad_Go_To_URL_1":"https://www.intervid1.com/",
-    "Inter_ad_Video_2":"https://zahag.publit.io/file/gameVid.mp4",
-    "Interstitial_Vid_Ad_Go_To_URL_2":"https://www.intervid2.com/",
     "is_Rewarded_Live":true,
     "Rewarded_Skip_Seconds":25,
-     "rewarded_vid_1":"https://zahag.publit.io/file/gameVid.mp4",
-    "Rewarded_Ad_Go_To_URL_1":"www.Rewarded1.com",
-   "rewarded_vid_2":"https://zahag.publit.io/file/gameVid.mp4",
-    "Rewarded_Ad_Go_To_URL_2":"www.Rewarded2.com",
-    "rewarded_vid_3":"https://zahag.publit.io/file/gameVid.mp4",
-    "Rewarded_Ad_Go_To_URL_3":"www.Rewarded3.com"  
+     "Rewarded_ad_img_1":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img1.jpg",
+    "Rewarded_Ad_Go_To_URL_1":"www.rewarded1.com",
+    "Rewarded_ad_img_2":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img2.jpg",
+    "Rewarded_Ad_Go_To_URL_2":"www.rewarded2.com",
+    "Rewarded_ad_img_3":"https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/img3.jpg",
+    "Rewarded_Ad_Go_To_URL_3":"www.rewarded3.com",
     
 }
